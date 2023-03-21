@@ -1,3 +1,4 @@
+<?php include('plantilla.php') ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>configuraciones</h1>
-    <a href="views/formulario.php">dirigir al formulario</a>
+    <h1>configuraciones 2</h1>
 </body>
 </html>

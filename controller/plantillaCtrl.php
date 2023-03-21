@@ -3,7 +3,7 @@
 class mostrarIndex
 {
     public function index(){
-        $contenido = 'views/plantilla.php';
+        $contenido = 'views/template.php';
         include($contenido);
     }
 
