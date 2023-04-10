@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Material Dark</title>
+    <title>SATEC</title>
     
      <!-- Normalize CSS -->
     <link rel="stylesheet" href="dist/css/normalize.css">
@@ -55,7 +55,7 @@
         <!--end Your code here -->
         
         <!-- Footer -->
-        <?php include('layout/footer.php') ?>
+        <?php //include('layout/footer.php') ?>
             
     <!-- Sweet Alert JS -->
     <script src="dist/js/sweetalert.min.js"></script>

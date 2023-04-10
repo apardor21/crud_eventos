@@ -1,19 +1,36 @@
-<h4 class="center-align">Eventos Form</h4>
+<h4 class="center-align">Inventario soporte tecnico</h4>
     <div class="container">  
-  <div class="row">
-    <form class="col s12">
-      <div class="row">
-        <div class="input-field col s6">
-          <i class="material-icons prefix">account_circle</i>
-          <input id="icon_prefix" type="text" class="validate">
-          <label for="icon_prefix">First Name</label>
+    <div class="row">
+    <div class="col s12 m6">
+      <div class="card blue-grey darken-1">
+        <div class="card-content white-text">
+          <span class="card-title">Insumos</span>
+          <h3 class="center-align">15</h3> 
         </div>
-        <div class="input-field col s6">
-          <i class="material-icons prefix">phone</i>
-          <input id="icon_telephone" type="tel" class="validate">
-          <label for="icon_telephone">Telephone</label>
-        </div>
+        
       </div>
-    </form>
+    </div>
+
+    <div class="col s12 m6">
+      <div class="card blue-grey darken-1">
+        <div class="card-content white-text">
+          <span class="card-title">Herramientas de taller</span>
+          <h3 class="center-align">25</h3>    
+        </div>
+       
+      </div>
+    </div>
   </div>
+  <div class="row">
+  <div class="col s12 m6">
+      <div class="card blue-grey darken-1">
+        <div class="card-content white-text">
+          <span class="card-title">Piezas en taller</span>
+          <h3 class="center-align">45</h3>
+        </div>
+       
+      </div>
+    </div>
+  </div>
+
   </div>

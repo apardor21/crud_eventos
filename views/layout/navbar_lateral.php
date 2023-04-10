@@ -18,9 +18,9 @@
                         <a href="#" class="NavLateral-DropDown  waves-effect waves-light"><i class="zmdi zmdi-language-css3 zmdi-hc-fw"></i> <i class="zmdi zmdi-chevron-down NavLateral-CaretDown"></i>Registros</a>
                         <ul class="full-width">
                             <li><a onclick="cargarContenido('content-wrapper','views/formulario.php')"
-                            class="waves-effect waves-light">Typography & Shadow</a></li>
+                            class="waves-effect waves-light">inventario</a></li>
                             <li class="NavLateralDivider"></li>
-                            <li><a href="views/plantilla.php" class="waves-effect waves-light">Table</a></li>
+                            <li><a  onclick="cargarContenido('content-wrapper','views/plantilla.php')" class="waves-effect waves-light">Table</a></li>
                         </ul>
                     </li>
                     <li class="NavLateralDivider"></li>
